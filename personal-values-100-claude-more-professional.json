@@ -1,0 +1,422 @@
+[
+  {
+    "value": "Acceptance",
+    "description": "Embracing others and situations as they are without trying to change them"
+  },
+  {
+    "value": "Accountability",
+    "description": "Taking responsibility for your actions and their consequences"
+  },
+  {
+    "value": "Achievement",
+    "description": "Striving to accomplish goals and reach personal milestones"
+  },
+  {
+    "value": "Adaptability",
+    "description": "Being flexible and able to adjust to changing circumstances"
+  },
+  {
+    "value": "Adventure",
+    "description": "Seeking new experiences and embracing the unknown"
+  },
+  {
+    "value": "Ambition",
+    "description": "Having strong desire and determination to achieve success"
+  },
+  {
+    "value": "Authenticity",
+    "description": "Being genuine and true to yourself in all situations"
+  },
+  {
+    "value": "Authority",
+    "description": "Having or respecting legitimate power and influence"
+  },
+  {
+    "value": "Autonomy",
+    "description": "Having independence and self-governance in your decisions"
+  },
+  {
+    "value": "Balance",
+    "description": "Maintaining harmony between different aspects of life"
+  },
+  {
+    "value": "Beauty",
+    "description": "Appreciating and creating aesthetic experiences and environments"
+  },
+  {
+    "value": "Belonging",
+    "description": "Feeling connected and accepted within a group or community"
+  },
+  {
+    "value": "Boldness",
+    "description": "Taking confident action despite uncertainty or risk"
+  },
+  {
+    "value": "Calmness",
+    "description": "Maintaining peace and tranquility in mind and spirit"
+  },
+  {
+    "value": "Challenge",
+    "description": "Embracing difficult tasks that test your abilities"
+  },
+  {
+    "value": "Collaboration",
+    "description": "Working effectively with others toward common goals"
+  },
+  {
+    "value": "Commitment",
+    "description": "Dedicating yourself fully to promises and obligations"
+  },
+  {
+    "value": "Community",
+    "description": "Contributing to and participating in collective welfare"
+  },
+  {
+    "value": "Compassion",
+    "description": "Showing deep concern and care for others' suffering"
+  },
+  {
+    "value": "Competence",
+    "description": "Developing and demonstrating skill and effectiveness"
+  },
+  {
+    "value": "Competition",
+    "description": "Striving to excel and outperform others"
+  },
+  {
+    "value": "Connection",
+    "description": "Building meaningful relationships and bonds with others"
+  },
+  {
+    "value": "Consistency",
+    "description": "Acting in accordance with your values across all situations"
+  },
+  {
+    "value": "Contribution",
+    "description": "Making a positive difference in the world around you"
+  },
+  {
+    "value": "Courage",
+    "description": "Acting bravely in the face of fear or adversity"
+  },
+  {
+    "value": "Creativity",
+    "description": "Expressing imagination and originality in thoughts and actions"
+  },
+  {
+    "value": "Curiosity",
+    "description": "Maintaining an eager desire to learn and understand"
+  },
+  {
+    "value": "Dedication",
+    "description": "Showing unwavering commitment to your goals and values"
+  },
+  {
+    "value": "Dignity",
+    "description": "Maintaining self-respect and treating others with respect"
+  },
+  {
+    "value": "Discipline",
+    "description": "Exercising self-control and maintaining consistent effort"
+  },
+  {
+    "value": "Diversity",
+    "description": "Valuing and embracing differences in people and perspectives"
+  },
+  {
+    "value": "Efficiency",
+    "description": "Accomplishing tasks with minimum waste of time and resources"
+  },
+  {
+    "value": "Empathy",
+    "description": "Understanding and sharing the feelings of others"
+  },
+  {
+    "value": "Equality",
+    "description": "Treating all people with fairness and equal consideration"
+  },
+  {
+    "value": "Excellence",
+    "description": "Striving for the highest quality in all endeavors"
+  },
+  {
+    "value": "Faith",
+    "description": "Having trust and belief in something greater than yourself"
+  },
+  {
+    "value": "Family",
+    "description": "Prioritizing relationships with loved ones and relatives"
+  },
+  {
+    "value": "Flexibility",
+    "description": "Being willing to adapt and change when necessary"
+  },
+  {
+    "value": "Forgiveness",
+    "description": "Letting go of resentment and pardoning others' mistakes"
+  },
+  {
+    "value": "Freedom",
+    "description": "Having liberty to make choices and live according to your will"
+  },
+  {
+    "value": "Friendship",
+    "description": "Building and maintaining meaningful personal relationships"
+  },
+  {
+    "value": "Fun",
+    "description": "Enjoying life and finding pleasure in everyday experiences"
+  },
+  {
+    "value": "Generosity",
+    "description": "Giving freely of your time, resources, and energy to others"
+  },
+  {
+    "value": "Gratitude",
+    "description": "Appreciating and acknowledging the good things in life"
+  },
+  {
+    "value": "Growth",
+    "description": "Continuously developing and improving yourself"
+  },
+  {
+    "value": "Happiness",
+    "description": "Pursuing joy and contentment in life"
+  },
+  {
+    "value": "Health",
+    "description": "Maintaining physical, mental, and emotional well-being"
+  },
+  {
+    "value": "Honesty",
+    "description": "Being truthful and transparent in all your dealings"
+  },
+  {
+    "value": "Hope",
+    "description": "Maintaining optimism and positive expectations for the future"
+  },
+  {
+    "value": "Humility",
+    "description": "Having a modest view of your own importance"
+  },
+  {
+    "value": "Humor",
+    "description": "Finding and sharing joy through laughter and lightheartedness"
+  },
+  {
+    "value": "Independence",
+    "description": "Being self-reliant and not depending on others unnecessarily"
+  },
+  {
+    "value": "Innovation",
+    "description": "Creating new ideas, methods, or solutions"
+  },
+  {
+    "value": "Integrity",
+    "description": "Acting in accordance with moral principles and values"
+  },
+  {
+    "value": "Intelligence",
+    "description": "Valuing knowledge, reasoning, and mental capability"
+  },
+  {
+    "value": "Intimacy",
+    "description": "Building deep, close personal relationships"
+  },
+  {
+    "value": "Intuition",
+    "description": "Trusting your inner wisdom and instinctive understanding"
+  },
+  {
+    "value": "Joy",
+    "description": "Experiencing and spreading happiness and delight"
+  },
+  {
+    "value": "Justice",
+    "description": "Ensuring fairness and moral rightness in all situations"
+  },
+  {
+    "value": "Kindness",
+    "description": "Showing consideration and benevolence toward others"
+  },
+  {
+    "value": "Knowledge",
+    "description": "Acquiring and applying information and understanding"
+  },
+  {
+    "value": "Leadership",
+    "description": "Guiding and inspiring others toward common goals"
+  },
+  {
+    "value": "Learning",
+    "description": "Continuously acquiring new skills and knowledge"
+  },
+  {
+    "value": "Legacy",
+    "description": "Creating lasting impact that endures beyond your lifetime"
+  },
+  {
+    "value": "Leisure",
+    "description": "Enjoying relaxation and recreational activities"
+  },
+  {
+    "value": "Love",
+    "description": "Giving and receiving deep affection and care"
+  },
+  {
+    "value": "Loyalty",
+    "description": "Being faithful and devoted to people and causes"
+  },
+  {
+    "value": "Mindfulness",
+    "description": "Being present and fully aware in each moment"
+  },
+  {
+    "value": "Optimism",
+    "description": "Maintaining a positive outlook on life and future possibilities"
+  },
+  {
+    "value": "Order",
+    "description": "Creating and maintaining structure and organization"
+  },
+  {
+    "value": "Originality",
+    "description": "Being unique and expressing your individual perspective"
+  },
+  {
+    "value": "Patience",
+    "description": "Remaining calm and composed while waiting or enduring difficulties"
+  },
+  {
+    "value": "Peace",
+    "description": "Seeking harmony and avoiding conflict in relationships"
+  },
+  {
+    "value": "Perseverance",
+    "description": "Continuing effort despite obstacles and setbacks"
+  },
+  {
+    "value": "Playfulness",
+    "description": "Maintaining a light-hearted and fun-loving attitude"
+  },
+  {
+    "value": "Popularity",
+    "description": "Being well-liked and accepted by others"
+  },
+  {
+    "value": "Power",
+    "description": "Having influence and ability to effect change"
+  },
+  {
+    "value": "Privacy",
+    "description": "Maintaining personal boundaries and solitude when needed"
+  },
+  {
+    "value": "Progress",
+    "description": "Moving forward and making continuous improvement"
+  },
+  {
+    "value": "Purpose",
+    "description": "Having clear meaning and direction in life"
+  },
+  {
+    "value": "Quality",
+    "description": "Maintaining high standards in all aspects of life"
+  },
+  {
+    "value": "Recognition",
+    "description": "Receiving acknowledgment and appreciation for your efforts"
+  },
+  {
+    "value": "Reliability",
+    "description": "Being dependable and trustworthy in all commitments"
+  },
+  {
+    "value": "Resilience",
+    "description": "Bouncing back from adversity and adapting to challenges"
+  },
+  {
+    "value": "Respect",
+    "description": "Treating others with consideration and esteem"
+  },
+  {
+    "value": "Responsibility",
+    "description": "Being accountable for your duties and obligations"
+  },
+  {
+    "value": "Security",
+    "description": "Having safety and stability in life circumstances"
+  },
+  {
+    "value": "Self-reliance",
+    "description": "Depending on your own abilities and resources"
+  },
+  {
+    "value": "Service",
+    "description": "Helping others and contributing to their well-being"
+  },
+  {
+    "value": "Simplicity",
+    "description": "Embracing uncomplicated and straightforward approaches"
+  },
+  {
+    "value": "Sincerity",
+    "description": "Being genuine and honest in your expressions and actions"
+  },
+  {
+    "value": "Spirituality",
+    "description": "Connecting with something greater than yourself"
+  },
+  {
+    "value": "Stability",
+    "description": "Maintaining consistency and reliability in life"
+  },
+  {
+    "value": "Success",
+    "description": "Achieving desired outcomes and reaching your goals"
+  },
+  {
+    "value": "Sustainability",
+    "description": "Acting in ways that preserve resources for future generations"
+  },
+  {
+    "value": "Teamwork",
+    "description": "Working collaboratively with others toward shared objectives"
+  },
+  {
+    "value": "Tradition",
+    "description": "Respecting and maintaining established customs and practices"
+  },
+  {
+    "value": "Transparency",
+    "description": "Being open and honest in communication and actions"
+  },
+  {
+    "value": "Trust",
+    "description": "Having confidence in the reliability and integrity of others"
+  },
+  {
+    "value": "Truth",
+    "description": "Seeking and speaking what is factual and honest"
+  },
+  {
+    "value": "Understanding",
+    "description": "Comprehending and empathizing with others' perspectives"
+  },
+  {
+    "value": "Uniqueness",
+    "description": "Embracing what makes you different and special"
+  },
+  {
+    "value": "Wealth",
+    "description": "Building and maintaining financial resources and prosperity"
+  },
+  {
+    "value": "Wisdom",
+    "description": "Applying knowledge and experience to make sound judgments"
+  },
+  {
+    "value": "Wonder",
+    "description": "Maintaining awe and fascination with the world around you"
+  }
+]

@@ -1,0 +1,426 @@
+[
+  {
+    "value": "Authenticity",
+    "description": "Being true to your own personality, spirit, and character."
+  },
+  {
+    "value": "Achievement",
+    "description": "Valuing the attainment of success, reaching goals, and mastery."
+  },
+  {
+    "value": "Adventure",
+    "description": "Seeking new, exciting, and daring experiences."
+  },
+  {
+    "value": "Balance",
+    "description": "Achieving equilibrium between different aspects of life, like work, play, and rest."
+  },
+  {
+    "value": "Beauty",
+    "description": "Appreciating and creating beauty in all its forms."
+  },
+  {
+    "value": "Boldness",
+    "description": "Willingness to take risks, be courageous, and stand up for what you believe in."
+  },
+  {
+    "value": "Calmness",
+    "description": "Maintaining a state of peace, tranquility, and composure."
+  },
+  {
+    "value": "Challenge",
+    "description": "Seeking out difficult tasks and situations to test one's abilities."
+  },
+  {
+    "value": "Charity",
+    "description": "Generosity and helpfulness, especially towards the needy or suffering."
+  },
+  {
+    "value": "Clarity",
+    "description": "Valuing clear thought, communication, and understanding."
+  },
+  {
+    "value": "Collaboration",
+    "description": "Working with others effectively to achieve a common goal."
+  },
+  {
+    "value": "Commitment",
+    "description": "Being dedicated to a cause, activity, or person."
+  },
+  {
+    "value": "Community",
+    "description": "Valuing a sense of belonging and connection with a group of people."
+  },
+  {
+    "value": "Compassion",
+    "description": "Feeling and showing sympathy and concern for others who are suffering."
+  },
+  {
+    "value": "Competence",
+    "description": "Having the necessary skill, knowledge, or ability to do something successfully."
+  },
+  {
+    "value": "Connection",
+    "description": "Feeling a strong sense of belonging and closeness with others."
+  },
+  {
+    "value": "Contribution",
+    "description": "The desire to make a positive impact and add value to the world."
+  },
+  {
+    "value": "Courage",
+    "description": "The ability to do something that frightens you; bravery."
+  },
+  {
+    "value": "Creativity",
+    "description": "The use of imagination or original ideas to create something; inventiveness."
+  },
+  {
+    "value": "Curiosity",
+    "description": "A strong desire to know or learn something."
+  },
+  {
+    "value": "Decisiveness",
+    "description": "The ability to make decisions quickly and effectively."
+  },
+  {
+    "value": "Dependability",
+    "description": "Being reliable, trustworthy, and responsible."
+  },
+  {
+    "value": "Dignity",
+    "description": "The state or quality of being worthy of honor and respect."
+  },
+  {
+    "value": "Discipline",
+    "description": "The practice of training people to obey rules or a code of behavior; self-control."
+  },
+  {
+    "value": "Discovery",
+    "description": "The action or process of finding something new or unexpected."
+  },
+  {
+    "value": "Diversity",
+    "description": "Valuing and respecting differences in people, ideas, and experiences."
+  },
+  {
+    "value": "Duty",
+    "description": "A moral or legal obligation; a responsibility."
+  },
+  {
+    "value": "Efficiency",
+    "description": "Achieving maximum productivity with minimum wasted effort or expense."
+  },
+  {
+    "value": "Empathy",
+    "description": "The ability to understand and share the feelings of another."
+  },
+  {
+    "value": "Endurance",
+    "description": "The ability to withstand hardship or adversity over a long period."
+  },
+  {
+    "value": "Enthusiasm",
+    "description": "Intense and eager enjoyment, interest, or approval."
+  },
+  {
+    "value": "Equality",
+    "description": "The state of being equal, especially in status, rights, and opportunities."
+  },
+  {
+    "value": "Excellence",
+    "description": "The quality of being outstanding or extremely good."
+  },
+  {
+    "value": "Exploration",
+    "description": "The action of traveling in or through an unfamiliar area in order to learn about it."
+  },
+  {
+    "value": "Fairness",
+    "description": "Impartial and just treatment or behavior without favoritism or discrimination."
+  },
+  {
+    "value": "Faith",
+    "description": "Strong belief in the doctrines of a religion or a system of belief."
+  },
+  {
+    "value": "Family",
+    "description": "Valuing close relationships with relatives and loved ones."
+  },
+  {
+    "value": "Flexibility",
+    "description": "Willingness to change or compromise; adaptability."
+  },
+  {
+    "value": "Forgiveness",
+    "description": "The action or process of forgiving or being forgiven."
+  },
+  {
+    "value": "Freedom",
+    "description": "The power or right to act, speak, or think as one wants without hindrance."
+  },
+  {
+    "value": "Friendship",
+    "description": "Valuing close, platonic relationships based on mutual trust and support."
+  },
+  {
+    "value": "Fun",
+    "description": "Enjoyment, amusement, or lighthearted pleasure."
+  },
+  {
+    "value": "Generosity",
+    "description": "The quality of being kind and giving money, time, or things."
+  },
+  {
+    "value": "Gratitude",
+    "description": "The quality of being thankful; readiness to show appreciation for and to return kindness."
+  },
+  {
+    "value": "Growth",
+    "description": "The process of developing or maturing physically, mentally, or spiritually."
+  },
+  {
+    "value": "Harmony",
+    "description": "A consistent, orderly, or pleasing arrangement of parts; congruity."
+  },
+  {
+    "value": "Health",
+    "description": "Prioritizing physical, mental, and emotional well-being."
+  },
+  {
+    "value": "Honesty",
+    "description": "Being truthful, sincere, and free of deceit."
+  },
+  {
+    "value": "Honor",
+    "description": "High respect; esteem; adherence to what is right or to a conventional standard of conduct."
+  },
+  {
+    "value": "Hope",
+    "description": "A feeling of expectation and desire for a certain thing to happen."
+  },
+  {
+    "value": "Humility",
+    "description": "Having a modest or low view of one's own importance."
+  },
+  {
+    "value": "Humor",
+    "description": "The quality of being amusing or comic, especially as expressed in literature or speech."
+  },
+  {
+    "value": "Independence",
+    "description": "Being self-reliant and free from the control or influence of others."
+  },
+  {
+    "value": "Individuality",
+    "description": "The quality or character of a particular person that distinguishes them from others."
+  },
+  {
+    "value": "Influence",
+    "description": "The capacity to have an effect on the character, development, or behavior of someone or something."
+  },
+  {
+    "value": "Innovation",
+    "description": "The action or process of creating new methods, ideas, or products."
+  },
+  {
+    "value": "Integrity",
+    "description": "Adhering to strong moral and ethical principles; being whole and undivided."
+  },
+  {
+    "value": "Intellect",
+    "description": "Valuing the pursuit of knowledge and the use of reason and logic."
+  },
+  {
+    "value": "Intimacy",
+    "description": "Close familiarity or friendship; closeness."
+  },
+  {
+    "value": "Joy",
+    "description": "A feeling of great pleasure and happiness."
+  },
+  {
+    "value": "Justice",
+    "description": "Just behavior or treatment; the quality of being fair and reasonable."
+  },
+  {
+    "value": "Kindness",
+    "description": "The quality of being friendly, generous, and considerate."
+  },
+  {
+    "value": "Knowledge",
+    "description": "The acquisition and application of facts, information, and skills."
+  },
+  {
+    "value": "Leadership",
+    "description": "The action of guiding a group of people or an organization."
+  },
+  {
+    "value": "Learning",
+    "description": "The continuous acquisition of knowledge or skills through experience, study, or being taught."
+  },
+  {
+    "value": "Logic",
+    "description": "Reasoning conducted or assessed according to strict principles of validity."
+  },
+  {
+    "value": "Love",
+    "description": "An intense feeling of deep affection and care towards another person."
+  },
+  {
+    "value": "Loyalty",
+    "description": "A strong feeling of support or allegiance to a person, group, or cause."
+  },
+  {
+    "value": "Mastery",
+    "description": "Comprehensive knowledge or skill in a subject or accomplishment."
+  },
+  {
+    "value": "Meaning",
+    "description": "Finding purpose and significance in life's events."
+  },
+  {
+    "value": "Mindfulness",
+    "description": "Maintaining a moment-by-moment awareness of our thoughts, feelings, and surrounding environment."
+  },
+  {
+    "value": "Moderation",
+    "description": "The avoidance of excess or extremes in one's behavior or political opinions."
+  },
+  {
+    "value": "Nature",
+    "description": "Valuing and feeling connected to the natural world."
+  },
+  {
+    "value": "Open-mindedness",
+    "description": "Willingness to consider new ideas; being unprejudiced."
+  },
+  {
+    "value": "Optimism",
+    "description": "Hopefulness and confidence about the future or the success of something."
+  },
+  {
+    "value": "Order",
+    "description": "A state of neatness, arrangement, and organization in one's environment and life."
+  },
+  {
+    "value": "Passion",
+    "description": "Having a strong and barely controllable emotion or desire for something."
+  },
+  {
+    "value": "Patience",
+    "description": "The capacity to accept or tolerate delay, trouble, or suffering without getting angry."
+  },
+  {
+    "value": "Peace",
+    "description": "A state of tranquility, quiet, and freedom from disturbance."
+  },
+  {
+    "value": "Perseverance",
+    "description": "Persistence in doing something despite difficulty or delay in achieving success."
+  },
+  {
+    "value": "Playfulness",
+    "description": "Being light-hearted, full of fun, and fond of games."
+  },
+  {
+    "value": "Power",
+    "description": "The ability to direct or influence the behavior of others or the course of events."
+  },
+  {
+    "value": "Privacy",
+    "description": "A state in which one is not observed or disturbed by other people."
+  },
+  {
+    "value": "Prosperity",
+    "description": "The state of being successful in material terms; flourishing financially."
+  },
+  {
+    "value": "Purpose",
+    "description": "The reason for which something is done or created or for which something exists."
+  },
+  {
+    "value": "Reason",
+    "description": "The power of the mind to think, understand, and form judgments by a process of logic."
+  },
+  {
+    "value": "Recognition",
+    "description": "Appreciation or acknowledgment of the existence, validity, or legality of something."
+  },
+  {
+    "value": "Respect",
+    "description": "A feeling of deep admiration for someone or something elicited by their abilities, qualities, or achievements."
+  },
+  {
+    "value": "Responsibility",
+    "description": "The state or fact of having a duty to deal with something or of having control over someone."
+  },
+  {
+    "value": "Resilience",
+    "description": "The capacity to recover quickly from difficulties; toughness."
+  },
+  {
+    "value": "Security",
+    "description": "The state of being free from danger or threat; feeling safe."
+  },
+  {
+    "value": "Self-Awareness",
+    "description": "Conscious knowledge of one's own character, feelings, motives, and desires."
+  },
+  {
+    "value": "Self-Respect",
+    "description": "Pride and confidence in oneself; a feeling that one is behaving with honor and dignity."
+  },
+  {
+    "value": "Service",
+    "description": "The action of helping or doing work for someone."
+  },
+  {
+    "value": "Simplicity",
+    "description": "The quality or condition of being easy to understand or do; living with only what is needed."
+  },
+  {
+    "value": "Spirituality",
+    "description": "Relating to or affecting the human spirit or soul as opposed to material or physical things."
+  },
+  {
+    "value": "Spontaneity",
+    "description": "The condition of being performed or occurring as a result of a sudden inner impulse."
+  },
+  {
+    "value": "Stability",
+    "description": "The state of being resistant to change and not prone to wild fluctuations."
+  },
+  {
+    "value": "Strength",
+    "description": "The quality or state of being physically or mentally strong."
+  },
+  {
+    "value": "Tolerance",
+    "description": "The ability or willingness to accept behavior and beliefs that are different from your own."
+  },
+  {
+    "value": "Tradition",
+    "description": "Valuing the transmission of customs or beliefs from generation to generation."
+  },
+  {
+    "value": "Trust",
+    "description": "Firm belief in the reliability, truth, ability, or strength of someone or something."
+  },
+  {
+    "value": "Vibrancy",
+    "description": "The state of being full of energy and life."
+  },
+  {
+    "value": "Vision",
+    "description": "The ability to think about or plan the future with imagination or wisdom."
+  },
+  {
+    "value": "Vulnerability",
+    "description": "The quality of being open to emotional or physical hurt; a willingness to show one's true self."
+  },
+  {
+    "value": "Wisdom",
+    "description": "The quality of having experience, knowledge, and good judgment."
+  }
+]
